@@ -1,0 +1,25 @@
+
+.top-container {
+	
+	
+	padding:20px;
+	border:10px groove #C27664;
+	background-color:#F0ECCF;
+	text-align:center;
+	box-shadow:5px 10px 50px #86A3B8;
+}
+
+#bottom-conatiner {
+	margin-top:70px;
+	padding:15px;
+	border:5px dotted #C780FA;
+	background-color:#E3F6FF;
+	text-align:center;
+	box-shadow:5px 10px 50px #FEC868;
+}
+div.andrdtext  {
+	padding-top:25px;
+	text-align:justify;
+	font-size:20px;
+}
+
